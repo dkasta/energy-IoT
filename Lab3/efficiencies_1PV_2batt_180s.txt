@@ -1,0 +1,18 @@
+1 PV, 2 batt
+
+Serial execution - 180s period:
+Battery efficiency: 0.891186
+PV efficiency: 0.770899
+
+Parallel execution, 180s period:
+Battery efficiency: 0.889242
+PV efficiency: 0.771953
+
+Custom 1 execution, 180s period:
+Battery efficiency: 0.899942
+PV efficiency: 0.771123
+
+Custom 2 execution, 180s period:
+Battery efficiency: 0.892969
+PV efficiency: 0.770900
+

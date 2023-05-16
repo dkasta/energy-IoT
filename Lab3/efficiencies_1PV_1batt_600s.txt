@@ -1,0 +1,6 @@
+1 PV, 1 batt
+
+Serial execution - 600s period:
+Battery efficiency: 0.891286
+PV efficiency: 0.770155
+
